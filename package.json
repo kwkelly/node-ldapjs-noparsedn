@@ -11,9 +11,9 @@
     "Patrick Mooney <patrick.f.mooney@gmail.com>",
     "Matt Simerson <matt@tnpi.net>"
   ],
-  "name": "ldapjs",
+  "name": "ldapjs-noparsedn",
   "homepage": "http://ldapjs.org",
-  "description": "LDAP client and server APIs",
+  "description": "ldapjs without parsedn so that we can mock bind against netbios\username logins",
   "version": "1.0.2",
   "license": "MIT",
   "repository": {
