@@ -13,7 +13,7 @@
   ],
   "name": "ldapjs-noparsedn",
   "homepage": "http://ldapjs.org",
-  "description": "ldapjs without parsedn so that we can mock bind against netbios\username logins",
+  "description": "ldapjs without parsedn so that we can mock bind against netbios\\username logins",
   "version": "1.0.2",
   "license": "MIT",
   "repository": {
